@@ -54,7 +54,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 def main():
   # Replace 'YOUR_TELEGRAM_BOT_TOKEN' with your actual token
   # (On Koyeb, you can also load this using os.environ.get("TELEGRAM_TOKEN"))
-  TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+  TOKEN = "9139843284:AAGYbN69Ms0bJ5nEAsnf_KHO1YE87d1LYh4"
 
   application = ApplicationBuilder().token(TOKEN).build()
 
